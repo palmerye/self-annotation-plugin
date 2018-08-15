@@ -1,0 +1,23 @@
+{
+  "name": "self-annotation-plugin",
+  "version": "1.0.0",
+  "description": "This is a plugin of webpack 3.x.x, add self annotation to every file from output files of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palmerye/self-annotation-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin"
+  ],
+  "author": "palmerye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palmerye/self-annotation-plugin/issues"
+  },
+  "homepage": "https://github.com/palmerye/self-annotation-plugin#readme"
+}
